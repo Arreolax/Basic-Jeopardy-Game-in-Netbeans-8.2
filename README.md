@@ -1,1 +1,1 @@
-# Jeopady-Game-in-Netbeans-8.2
+# Basic-Jeopady-Game-in-Netbeans-8.2
